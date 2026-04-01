@@ -76,6 +76,12 @@ This skill was distilled from **46 curated sources** covering:
 - Professional mockup techniques (displacement maps, blend options)
 - Brand strategy methodologies (RCAO, StoryBrand, brand archetypes)
 
+## Contributing
+
+Contributions are welcome! Whether it's a new tool, a tested prompt, a workflow improvement, or an anti-pattern you've learned the hard way — open a PR.
+
+All contributions go through review. Read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on what makes a good contribution.
+
 ## About the Author
 
 **Henrique** — Graphic Designer & MSc in Computer Science. Building at the intersection of design craft and computational thinking. This skill reflects a production-tested workflow for scaling brand identity work with AI while preserving creative intent and mathematical precision.
